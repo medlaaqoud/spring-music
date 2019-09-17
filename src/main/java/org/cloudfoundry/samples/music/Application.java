@@ -4,7 +4,7 @@ import org.cloudfoundry.samples.music.config.SpringApplicationContextInitializer
 import org.cloudfoundry.samples.music.repositories.AlbumRepositoryPopulator;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
-
+// a comment to test actions
 @SpringBootApplication
 public class Application {
 
